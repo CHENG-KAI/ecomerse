@@ -7,7 +7,7 @@
 <script>
 $(document).ready(function(){
     $("input").mouseenter(function(){
-         $("input").css("background-color", "#F0E68C");
+         $("input").css("background-color", "#ccff99");
     });
     $("input").mouseleave(function(){
          $("input").css("background-color", "white");
